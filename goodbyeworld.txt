@@ -1,0 +1,15 @@
+Hello Bitmakers!
+
+Git status for files:
+
+Untracked
+Unstaged
+Staged
+Committed
+
+-- for a new change
+git init
+git status
+git add --all/ git add -A/ git add . /git add *
+git status
+
